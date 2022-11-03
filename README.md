@@ -1,4 +1,4 @@
-# COT-Exchange-Currency-Program
+# COT-Currency-Exchange-Program
 COT is a program written in C as a student project, In which you can "Exchange" in this case Buy or Sell any currency depends with respect to "Baht"(To clarify you either Buy currency of your desire with Baht or Sell the currency you have back to Baht) on the Currency list provide.
 
 # Features
